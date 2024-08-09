@@ -13,3 +13,4 @@ vless://a9d08834-a108-4412-9446-2902134f8d4b@ultrav2rayteam.duckdns.org:443?type
 vless://a9d08834-a108-4412-9446-2902134f8d4b@ultrav2rayteam.duckdns.org:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=whatsapp.net#KeriULTRA%20V2RAY%20TEAM-nwg2kkb4
 vless://a9d08834-a108-4412-9446-2902134f8d4b@ultrav2rayteam.duckdns.org:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=whatsapp.net#KeriULTRA%20V2RAY%20TEAM-nwg2kkb4
 vless://a9d08834-a108-4412-9446-2902134f8d4b@ultrav2rayteam.duckdns.org:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=whatsapp.net#KeriULTRA%20V2RAY%20TEAM-nwg2kkb4
+vless://a9d08834-a108-4412-9446-2902134f8d4b@ultrav2rayteam.duckdns.org:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=whatsapp.net#wucanaLTRA%20V2RAY%20TEAM-nwg2kkb4
